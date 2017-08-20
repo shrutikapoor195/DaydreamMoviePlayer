@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/DaydreamMovieView.unity
+- path: Assets/DaydreamMovieView/Scenes/DaydreamMovieView.unity
   isLoaded: 1
   isActive: 1
